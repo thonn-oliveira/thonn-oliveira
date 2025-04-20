@@ -95,11 +95,8 @@ A tecnologia sempre foi bem presente em minha vida, ela é basicamente meu playg
     src="https://github-readme-stats.vercel.app/api?username=thonn-oliveira&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=thonn-oliveira&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thonn-oliveira/thonn-oliveira/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thonn-oliveira/thonn-oliveira/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/thonn-oliveira/thonn-oliveira/output/github-contribution-grid-snake.svg">
+</picture>
