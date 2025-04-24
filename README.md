@@ -1,9 +1,12 @@
 # 👨🏻‍💻 Anthony Oliveira
 ---
 **`Dev em construção 🧱`**
+---
+---
+🚀 Sobre mim:
 
-Me chamo Anthony, tenho 21 anos e sou natural do Paraná. Concluí o ensino médio integrado em Técnico em Química, mas percebi que a aréa não me agradava como a TI. Atualmente, estou cursando Engenharia de Software na UniCesumar.
-A tecnologia sempre foi bem presente na minha vida, ela é basicamente meu playground, e recentemente decidi que é o caminho que pretendo seguir profissionalmente. Me interesso tanto por front-end quanto por back, e minhas principais linguagens que me despertam interesse é Java e Python, estou sempre em busca de aprimorar meus conhecimentos.
+Me chamo Anthony, concluí o ensino médio integrado em Técnico em Química, mas percebi que a aréa não me agradava como a TI. Atualmente, estou cursando Engenharia de Software na UniCesumar.
+A tecnologia sempre foi bem presente na minha vida, ela é basicamente meu playground, e recentemente decidi que é o caminho que pretendo seguir profissionalmente. Me interesso tanto por front-end quanto por back, porém as principais linguagens que me despertam maior interesse é Java e Python, estou sempre em busca de aprimorar meus conhecimentos.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/-anthony-oliveira-/">
